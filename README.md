@@ -8,11 +8,16 @@ A modern all-in-one workspace built for Bug Bounty Hunters, Pentesters, Security
 
 <p align="center">
   <a href="https://iamstudent-000.github.io/hunters-playbook/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Open%20Website-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Hunter's_Playbook-success?style=for-the-badge">
   </a>
-  <img src="https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/HTML5-Single_Page-orange?style=for-the-badge">
+
   <img src="https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Storage-LocalStorage-green?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Hosted_on-GitHub_Pages-blue?style=for-the-badge">
 </p>
 
 </div>
